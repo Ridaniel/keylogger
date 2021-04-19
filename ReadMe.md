@@ -1,0 +1,1 @@
+Para crear la version .exe usar pyinstaller.exe --onefile --windowed --icon=aliplata.ico keylogger.py
